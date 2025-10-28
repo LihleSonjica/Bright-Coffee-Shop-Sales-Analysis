@@ -1,11 +1,11 @@
 # Bright-Coffee-Shop-Sales-Analysis
 This repository presents a comprehensive sales analysis of a coffee shop chain operating across three locations from January to June 2023. The objective is to examine revenue trends, customer behaviour, and uncover data-driven insights to inform strategies that enhance overall sales performance and business growth.
 
-##Objectives
-•	Analyse sales trends and revenue performance over six months.
-•	Identify peak sales times and customer activity patterns.
-•	Compare sales across store locations and product categories.
-•	Recommend strategies to improve sales and optimize operations.
+## Objectives
+- Analyse sales trends and revenue performance over six months.
+- Identify peak sales times and customer activity patterns.
+- Compare sales across store locations and product categories.
+- Recommend strategies to improve sales and optimize operations.
 
 ## Dataset Description
 The processed dataset contains sales records with the following key variables:
