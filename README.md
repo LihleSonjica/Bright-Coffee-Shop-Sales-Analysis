@@ -14,7 +14,7 @@ The processed dataset contains sales records with the following key variables:
 - Product Category - Coffee, Tea, Bakery, etc.
 - Revenue -Total revenue per transaction
 - Time Bucket - Morning, Afternoon, or Evening
-- Data was cleaned, organized, and analysed using SQL and Microsoft Excel, leveraging PivotTables and Charts for visual insights.
+Data was cleaned, organized, and analysed using SQL and Microsoft Excel, leveraging PivotTables and Charts for visual insights.
 
 ## Key Insights
 - Coffee generates the highest revenue across all locations, followed by Tea and Bakery.
@@ -37,7 +37,7 @@ The processed dataset contains sales records with the following key variables:
 - Microsoft Excel 
 
 ## Conclusion
-- The analysis highlights consistent revenue growth and strong morning performance across all stores. Strategic adjustments in marketing and product focus can further enhance profitability and maintain momentum going forward.
+The analysis highlights consistent revenue growth and strong morning performance across all stores. Strategic adjustments in marketing and product focus can further enhance profitability and maintain momentum going forward.
 
 
 
